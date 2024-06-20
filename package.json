@@ -1,0 +1,16 @@
+{
+  "name": "SharpSP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sharp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SSTormBreaker003",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0"
+  }
+}
