@@ -1,2 +1,2 @@
 # SharpSP
-**sa**
+# Discord sunucu patlatma botu
